@@ -21,5 +21,10 @@ namespace TestTravailCollaboratif
         {
             MessageBox.Show("Bonjour L3 L4 ISESOD");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Nous avons déjà commencé");
+        }
     }
 }
